@@ -4,7 +4,7 @@ fun main() {
     var sum = (numbers[0] + numbers[2])
     println(sum)
 
-    pipo(arrayOf("ken", "man", "tom"))
+    (arrayOf("ken", "man", "tom"))
 
 
     var names = arrayOf("ritty", "ranny", "simi")
